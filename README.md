@@ -1,6 +1,6 @@
-**feature_extract.R**-The script is to generate feature extraction. 
+**feature_extract.R** - To extract features from protein sequences. 
 
-**T-Test-feat-correlation.R**-To find correlated feature for T-Test.
+**T-Test-feat-correlation.R** - To find correlated feature for T-Test.
 
 **T-Test-optimal-feature-set.R**-To compute the optimal feature set in T-Test.
 
