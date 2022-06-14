@@ -1,15 +1,11 @@
 **feature_extract.R** - To extract features from protein sequences. 
 
-**T-Test-feat-correlation.R** - To find correlated feature for T-Test.
+**pearson's_corr.R** - To perform Pearson's correlation analysis.
 
-**T-Test-optimal-feature-set.R**-To compute the optimal feature set in T-Test.
+**t-test.R**-To perform t-test analysis.
 
-**T-Test-optimal-feat-subset.R**-To find optimal feature subset in T-Test.
+**mdgi.R**-To perform MDGI analysis.
 
-**MDGI-feat-correlation.R**-To find correlated feature for Random forest.
+**mi_svm.R**-To implement Support Vector Machine.
 
-**MDGI-optimal-feat-subset.R**-To find optimal feature subset in RM.
-
-**Random-forest-ML-model.R**-Random forest ml model for both t-test-reduced feature subset and  MDGI-reduced feature subset.
-
-**SVM-ML-model.R**—Support vector machine learning model for both t-test-reduced feature subset and  MDGI-reduced feature subset.
+**ml_rf.R**—To implement Random Forest.
