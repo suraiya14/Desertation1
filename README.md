@@ -2,10 +2,10 @@
 
 **pearson's_corr.R** - To perform Pearson's correlation analysis.
 
-**t-test.R**-To perform t-test analysis.
+**t-test.R** - To perform t-test analysis.
 
-**mdgi.R**-To perform MDGI analysis.
+**mdgi.R** - To perform MDGI analysis.
 
-**mi_svm.R**-To implement Support Vector Machine.
+**ml_svm.R** - To implement Support Vector Machine.
 
-**ml_rf.R**—To implement Random Forest.
+**ml_rf.R** - To implement Random Forest.
