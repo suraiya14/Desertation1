@@ -4,8 +4,12 @@
 
 **t-test.R** - To perform t-test analysis.
 
-**mdgi.R** - To perform MDGI analysis.
+**mdg.R** - To perform MDG analysis.
 
 **ml_svm.R** - To implement Support Vector Machine.
 
 **ml_rf.R** - To implement Random Forest.
+
+**rfe_svm.R - To analysis the recursive feature elimination for Support Vector Machine.
+
+**rfe_rf.R-To analysis the recursive feature elimination fro Random Forest. 
