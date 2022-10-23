@@ -15,4 +15,4 @@
 **rfe_rf.R**-To analysis the recursive feature elimination fro Random Forest. 
 
 
-**positiveBac.faa and negativeBac.faa are give for feature extraction
+**positiveBac.faa and negativeBac.faa are give for feature extraction**
