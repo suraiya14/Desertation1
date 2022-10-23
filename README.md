@@ -12,7 +12,7 @@
 
 **rfe_svm.R** - To analysis the recursive feature elimination for Support Vector Machine.
 
-**rfe_rf.R**-To analysis the recursive feature elimination fro Random Forest. 
+**rfe_rf.R** - To analysis the recursive feature elimination fro Random Forest. 
 
 
 **positiveBac.faa and negativeBac.faa** - Bacteriocin (positive) and non-bacteriocin (negative) FASTA sequences.
