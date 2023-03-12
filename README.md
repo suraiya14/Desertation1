@@ -16,6 +16,6 @@
 
 **positiveBac.faa and negativeBac.faa** - Bacteriocin (positive) and non-bacteriocin (negative) FASTA sequences.
 
-**corr_matrx_all.xlsx - Correlation matrix obtained from Pearson correlation coefficient analysis.
+**corr_matrx_all.xlsx** - Correlation matrix obtained from Pearson correlation coefficient analysis.
 
-**ttest_anlys.xlsx - t-test results for the selected features obtained from the correlation analysis
+**ttest_anlys.xlsx** - t-test results for the selected features obtained from the correlation analysis.
