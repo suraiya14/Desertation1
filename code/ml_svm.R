@@ -1,6 +1,3 @@
-#x<-"/Applications/kayes/Antiviral\ peptide\ work/for\ X\ sequences/new_with_8CTD/p85/selected_training_merged_file.csv"
-#y<-"/Applications/kayes/Antiviral\ peptide\ work/for\ X\ sequences/new_with_8CTD/p85/selected_validation_merged_file.csv"
-
 #t-test data
 #x<-"D:\\Research Work\\Disertation Project 1\\Raw Data\\featureExtraction/Tselected_training_merged_file.csv"
 #y<-"D:\\Research Work\\Disertation Project 1\\Raw Data\\featureExtraction/Tselected_validation_merged_file.csv"
