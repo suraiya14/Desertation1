@@ -1,5 +1,3 @@
-#x<-"/Applications/kayes/Antiviral\ peptide\ work/for\ X\ sequences/new_with_8CTD/p85/selected_training_merged_file.csv"
-#y<-"/Applications/kayes/Antiviral\ peptide\ work/for\ X\ sequences/new_with_8CTD/p85/selected_validation_merged_file.csv"
 #t-test DAta
 x<-"D:\\Research Work\\Disertation Project 1\\Raw Data\\featureExtraction/Tselected_training_merged_file.csv"
 y<-"D:\\Research Work\\Disertation Project 1\\Raw Data\\featureExtraction/Tselected_validation_merged_file.csv"
@@ -90,8 +88,8 @@ data_other$dist_100
 train<-data1
 test<-data_other
 
-kayes<-123
-set.seed(kayes)
+suraiya<-123
+set.seed(suraiya)
 train$Output
 #train$Output[train$Output==1]<-"Yes"
 train$Output<-as.factor(train$Output)
